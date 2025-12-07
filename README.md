@@ -9,7 +9,7 @@ ESP-IDF project for controlling an LED filament with smooth dimming and glow eff
 - Optosupply OSFX3002AY5-3V LED filament (300mm, yellow, 3V/20mA)
 - BC5468 NPN transistor (or similar general-purpose NPN)
 - 1kΩ resistor
-- Breadboard and jumper wires
+- [Wire Wrap](https://youtu.be/L-463vchW0o?si=xDqNH_X4M9rla1Cx)
 
 ### Circuit
 ```
